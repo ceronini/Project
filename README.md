@@ -22,7 +22,7 @@
 
 ## Funding and Investors
 
-In February of 2017, IVP lead a group of investors in a $30 million funding for [TALA](https://tala.co). In August, 2019 RPS Ventures a SoftBank Group backed firm led a $110 million Series D financing deal. *TALA's* total funding is **$204.4 million**. The **RPS** deal pushed *TALA* to a valuation in the **$700 million** range. To date, the major institutional [INVESTORS](!investor-logos_final.png) that have ponnied up funding for [TALA](https://tala.co) are:
+In February of 2017, IVP lead a group of investors in a $30 million funding for [TALA](https://tala.co). In August, 2019 RPS Ventures a SoftBank Group backed firm led a $110 million Series D financing deal. *TALA's* total funding is **$204.4 million**. The **RPS** deal pushed *TALA* to a valuation in the **$700 million** range. To date, the major institutional ![INVESTORS](investor-logos_final.png) that have ponnied up funding for [TALA](https://tala.co) are:
 
 - BAM VENTURES
 - F<sup>3</sup> - Female Founders Fund
