@@ -3,7 +3,7 @@
 ## Company Overview
 
 <b>[TALA](https://tala.co)</b> was founded in 2014 by Shivani Siroya who is also the current CEO. The company started out offering unsecured loans to people in Kenya. The founder while working for the United Nations Population Fund, noticed that the biggest obstacle to broadening financisal access was lack of data. Realising that non traditional financial data already resides on consumers' mobile phones, she built an app to convert the shared data into a credit score. 
-[SALA](https://tala.co) is headquarted in Santa Monica, CA and has offices in Nairobi Kenya, Mexico City Mexico, Manila Phillipines, and Bangalore India. 
+[TALA](https://tala.co) is headquarted in Santa Monica, CA and has offices in Nairobi Kenya, Mexico City Mexico, Manila Phillipines, and Bangalore India. 
 <br>
 
 ## Technologies Deployed
